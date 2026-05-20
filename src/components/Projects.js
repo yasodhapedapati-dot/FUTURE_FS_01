@@ -2,12 +2,12 @@ const projectList = [
   {
     title: 'Portfolio Website',
     desc: 'My personal portfolio website built with React.js showcasing my skills and projects.',
-    link: '#'
+    link: 'https://github.com/yasodhapedapati-dot/FUTURE_FS_01'
   },
   {
     title: 'Sustainable Ecopack-AI',
     desc: 'An AI-powered Sustainable packaging solution that helps businesses choose eco-friendly packaging materials based on prouct type.cost,impact on enviornment build using modern web technologies and artifical intelligence.',
-    link: '#'
+    link: 'https://github.com/yasodhapedapati-dot/EcoPackAI-AI-Powered-Sustainable-Packaging-Recommendation-System'
   },
 ];
 
