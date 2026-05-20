@@ -3,9 +3,11 @@ function About() {
     <section id="about" style={styles.section}>
       <h2 style={styles.heading}>About Me</h2>
       <p style={styles.text}>
-        I am a passionate Full Stack Web Developer currently interning at Future Interns.
-        I love building web applications and solving real-world problems through code.
-        I am currently learning React, Node.js, and modern web development practices.
+       Aspiring Software Engineer passionate about building innovative and user-friendly applications.
+        I enjoy learning new technologies, solving real-world problems, and creating projects that combine creativity with functionality.
+         Skilled in web development, AI-based projects, and continuously improving my programming knowledge.
+          Currently exploring Full Stack Development and software engineering while gaining practical experience through internships and hands-on projects.
+           Dedicated to writing clean, efficient code and growing as a developer every day.
       </p>
     </section>
   );
