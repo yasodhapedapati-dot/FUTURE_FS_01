@@ -2,8 +2,8 @@ function Hero() {
   return (
     <section style={styles.hero}>
       <h1 style={styles.name}>Hi, I'm <span style={styles.highlight}>Yasodha pedapati</span></h1>
-      <h2 style={styles.title}>Full Stack Web Developer</h2>
-      <p style={styles.bio}>I build beautiful and functional web applications. Currently interning at Future Interns.</p>
+      <h2 style={styles.title}>Aspiring software engineer</h2>
+      <p style={styles.bio}>I build efficient,Scalable,and user-focused software solutions. Currently interning at Future Interns.</p>
       <a href="#contact" style={styles.btn}>Hire Me</a>
     </section>
   );
